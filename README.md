@@ -57,13 +57,30 @@ src/
 ```bash
 git clone https://github.com/Adi716kumar/Paste-app.git
 cd Paste-app
+npm install
+npm run dev
 
-📄 License
+
+---
+
+## 📄 License
 This project is open-source and free to use.
 
 🙌 Acknowledgments
 Built by Aditya Kumar
 Icons by Lucide • Notifications by React Hot Toast
+
+
+⭐ GitHub
+🔗 GitHub Repository
+---
+
+✅ After pasting, just run:
+
+```bash
+git add README.md
+git commit -m "Add polished README file"
+git push
 
 
 
