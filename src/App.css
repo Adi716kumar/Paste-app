@@ -1,0 +1,9 @@
+/* Optional smooth transitions */
+* {
+  transition: all 0.2s ease-in-out;
+}
+
+/* Optional: smooth scroll */
+html {
+  scroll-behavior: smooth;
+}

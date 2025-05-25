@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Better font + remove outlines on focus */
+body {
+  font-family: 'Inter', sans-serif;
+  @apply bg-gray-950 text-white;
+}
